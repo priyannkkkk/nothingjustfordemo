@@ -1,4 +1,4 @@
 # nothingjustfordemo
-this is my demo one
+This is my demo one.
 <br>
-aithor =  Priyanak Pateliya
+Author =  Priyank Pateliya
